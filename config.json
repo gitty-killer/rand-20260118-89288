@@ -1,0 +1,13 @@
+{
+  "project_title": "Release Readiness Checklist",
+  "goal": "Score release items and highlight blockers.",
+  "entity_name": "release_item",
+  "amount_label": "tasks",
+  "score_label": "readiness_score",
+  "categories": [
+    "backend",
+    "frontend",
+    "qa",
+    "docs"
+  ]
+}
